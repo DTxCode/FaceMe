@@ -25,7 +25,8 @@ h6 {
     font-size: 14px; 
 }
 .twitter-timeline{
-    text-align: center;
+   display: block;
+   
 }
 
 .lead {
